@@ -22,4 +22,4 @@ The Enron fraud is a big, messy and totally fascinating story about corporate ma
 
 ## Regression
 
-Use regression to predict financial data for Enron employees and associates in the [`regressions_enron_data`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/regressions_enron_data.ipynb) Jupyter Notebook. 
+Model continuous data using linear regression and use regression to predict financial data for Enron employees and associates in the [`regressions_enron_data`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/regressions_enron_data.ipynb) Jupyter Notebook. 
