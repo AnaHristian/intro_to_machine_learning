@@ -23,3 +23,17 @@ The Enron fraud is a big, messy and totally fascinating story about corporate ma
 ## Regression
 
 Model continuous data using linear regression and use regression to predict financial data for Enron employees and associates in the [`regressions_enron_data`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/regressions_enron_data.ipynb) Jupyter Notebook. 
+
+## Outliers
+Outlier detection and removal in the [`enron_outliers`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_outliers.ipynb) Jupyter Notebook. 
+
+### #1 Outliers - Rejection Algorithm
+
+* Fit a regression, take 10% of points that have the largest residuals, relative to your regression
+* Remove them
+* Re-train
+
+### #2 Outliers in the Enron finance data
+
+* get acquainted with some of the outliers in the Enron finance data
+* learn if/how to remove them.
