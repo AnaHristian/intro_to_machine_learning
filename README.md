@@ -40,4 +40,4 @@ Outlier detection and removal in the [`enron_outliers`](https://github.com/AnaHr
 
 ### Clustering - Unsupervised Learning
 
-Learn about what unsupervised learning and find out how to use scikit-learn's k-means algorithm in the [`enron_clustering`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_clustering.ipynb) Jupyter Notebook. 
+Learn about what unsupervised learning is and find out how to use scikit-learn's k-means algorithm in the [`enron_clustering`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_clustering.ipynb) Jupyter Notebook. 
