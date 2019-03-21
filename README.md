@@ -1,5 +1,5 @@
 # Intro to Machine Learning
-Machine Learning Algorithms
+Machine Learning Algorithms from the Udacity Intro to Machine Learning Nanodegree
 
 
 ## Data sets and Questions 
