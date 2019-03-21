@@ -15,7 +15,7 @@ The Enron fraud is a big, messy and totally fascinating story about corporate ma
   * Example: in netflix they use it to identify particular types of people by their movie choices (clusters of users)
 * Outlier detection and removal to find certain lines in the data set that were bugs basically, clean out manually
 
-### Person of Interest (POI)
+#### Person of Interest (POI) - Target
 * Indicted
 * Settled without admitting guilt
 * Testified in exchange for immunity
@@ -38,10 +38,10 @@ Outlier detection and removal in the [`enron_outliers`](https://github.com/AnaHr
 * get acquainted with some of the outliers in the Enron finance data
 * learn if/how to remove them.
 
-### Clustering - Unsupervised Learning
+## Clustering - Unsupervised Learning
 
 Learn about what unsupervised learning is and find out how to use scikit-learn's k-means algorithm in the [`enron_clustering`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_clustering.ipynb) Jupyter Notebook. 
 
-### Feature Scaling
+## Feature Scaling
 
 Apply `MinMaxScaler` on the `salary` and `exercised_stock_options` features from the Enron dataset in the previous [`enron_clustering`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_clustering.ipynb) Jupyter Notebook ro make better predictions abou POIs.
