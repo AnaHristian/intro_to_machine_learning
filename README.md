@@ -45,3 +45,7 @@ Learn about what unsupervised learning is and find out how to use scikit-learn's
 ## Feature Scaling
 
 Apply `MinMaxScaler` on the `salary` and `exercised_stock_options` features from the Enron dataset in the previous [`enron_clustering`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_clustering.ipynb) Jupyter Notebook ro make better predictions abou POIs.
+
+## Text Learning
+
+Find out how to use text data in your machine learning algorithm. Use sklearn `TfidfVectorizer` to convert a collection of raw documents to a matrix of TF-IDF features. Check it out in the [`enron_text_learning`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_text_learning.ipynb) Jupyter Notebook.
