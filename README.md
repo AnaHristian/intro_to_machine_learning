@@ -49,3 +49,7 @@ Apply `MinMaxScaler` on the `salary` and `exercised_stock_options` features from
 ## Text Learning
 
 Find out how to use text data in your machine learning algorithm. Use sklearn `TfidfVectorizer` to convert a collection of raw documents to a matrix of TF-IDF features. Check it out in the [`enron_text_learning`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_text_learning.ipynb) Jupyter Notebook.
+
+## Feature Selection
+
+When and why to use feature selection using sklearn classifier `feature_importances_` attribute to find out outliers in text data in the [`enron_feature_selection`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_feature_selection.ipynb) Jupyter Notebook.
