@@ -53,3 +53,6 @@ Find out how to use text data in your machine learning algorithm. Use sklearn `T
 ## Feature Selection
 
 When and why to use feature selection using sklearn classifier `feature_importances_` attribute to find out outliers in text data in the [`enron_feature_selection`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_feature_selection.ipynb) Jupyter Notebook.
+
+## Principal Component Analysis (PCA)
+Learn about data dimensionality and reducing the number of dimensions with principal component analysis (PCA) in the [`eigenfaces`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/eigenfaces.ipynb) Jupyter Notebook, an example that follows Faces recognition using eigenfaces and SVMs.
