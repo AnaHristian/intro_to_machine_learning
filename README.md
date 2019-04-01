@@ -56,3 +56,6 @@ When and why to use feature selection using sklearn classifier `feature_importan
 
 ## Principal Component Analysis (PCA)
 Learn about data dimensionality and reducing the number of dimensions with principal component analysis (PCA) in the [`eigenfaces`](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/eigenfaces.ipynb) Jupyter Notebook, an example that follows Faces recognition using eigenfaces and SVMs.
+
+## Cross-Validation
+Learn more about testing, training, cross validation and parameter grid searches in the [enron_validation](https://github.com/AnaHristian/intro_to_machine_learning/blob/master/enron_validation.ipynb) Jupyter Notebook
